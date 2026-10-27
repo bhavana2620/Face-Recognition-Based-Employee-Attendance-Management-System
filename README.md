@@ -1,2 +1,13 @@
-# Face-Recognition-Based-Employee-Attendance-Management-System
-Developed an employee attendance system using Python, Flask, OpenCV, and SQLite. Automated attendance using real-time face recognition, with employee management, attendance reports, and CSV export. Supports capturing up to 60 face samples per employee.
+# Face Recognition Attendance System with Real-Time Detection
+
+An automated biometric attendance management system built with Flask, OpenCV, and SQLite.
+
+## Prerequisites
+- Python 3.9 - 3.12
+- Working webcam
+
+## Setup Instructions
+
+1. Clone or extract the project repository:
+   ```bash
+   cd face_attendance_system
